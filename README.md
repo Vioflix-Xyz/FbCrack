@@ -2,7 +2,7 @@
     $ apt update -y && apt upgrade -y
     $ pkg install git
     $ pkg install python
-    $ git clone https://github.com/RozhakXD/Fb-Crack
+    $ git clone https://github.com/Vioflix-Xyz/FbCrack
     $ cd Fb-Crack
     $ pip install -r requirements.txt
     $ python Run.py
